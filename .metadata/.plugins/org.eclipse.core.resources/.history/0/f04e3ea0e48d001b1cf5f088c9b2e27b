@@ -1,0 +1,19 @@
+package test;
+
+import java.util.Scanner;
+
+public class Stg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a,h,S;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Nhập độ dài cạnh đáy:");
+		a = sc.nextInt();
+		System.out.println("Nhập chiều cao");
+		h = sc.nextInt();
+		S=1/2*a*h;
+		System.out.println("Diện tích tam giác là:" + S);
+	}
+
+}

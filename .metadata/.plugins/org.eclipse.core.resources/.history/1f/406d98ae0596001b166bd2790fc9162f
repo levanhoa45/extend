@@ -1,0 +1,14 @@
+package test;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Cat cat = new Cat("Tom", 10, "xanh", "vang");
+		System.out.println("Ten:"+cat.tenGoi);
+		System.out.println("can nang"+10);
+		System.out.println("mau mat"+cat.mauMat);
+		System.out.println("mau long"+cat.mauLong);
+	}
+
+}

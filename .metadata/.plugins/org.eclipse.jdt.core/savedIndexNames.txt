@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Admin\Downloads\DoanLTNC\bin\cloneable\.metadata\.plugins\org.eclipse.jdt.core
+10077855.index
+850011090.index
+3731650514.index
+3543422066.index
